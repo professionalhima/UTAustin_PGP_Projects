@@ -12,15 +12,15 @@
             * ***[KNN ROC-AUC of 95%](https://github.com/professionalhima/UTAustin_PGP_Projects/blob/main/Supervised%20Learning%20-%20Personal%20Loan%20Campaign%20Modelling/KNN_ROC_SMOTE.png)***
             * ***[KNN Classficiation Report with 92% Recall](https://github.com/professionalhima/UTAustin_PGP_Projects/blob/main/Supervised%20Learning%20-%20Personal%20Loan%20Campaign%20Modelling/KNN_ClassifReport.PNG)***
             * ***[Models Comparision](https://github.com/professionalhima/UTAustin_PGP_Projects/blob/main/Supervised%20Learning%20-%20Personal%20Loan%20Campaign%20Modelling/Model_comp.PNG)***
-            
+            * ![Model Comparision](https://github.com/professionalhima/UTAustin_PGP_Projects/blob/main/Supervised%20Learning%20-%20Personal%20Loan%20Campaign%20Modelling/Model_comp.PNG)
+            * ![KNN ROC](https://github.com/professionalhima/UTAustin_PGP_Projects/blob/main/Supervised%20Learning%20-%20Personal%20Loan%20Campaign%20Modelling/KNN_ROC_SMOTE.png)
+                
         -  **Learning Outcomes:**
             - Exploratory Data Analysis
             - Preparing the data to train models
             - Training and making predictions using classification models (LR, KNN, NB)
             - Model evaluation (Confusion Matrix, ROC-AUC, Classification report, Classification Metrics)
             - Class Imbalance Handling (using SMOTE)
-            
-    <img width="333" alt="Model_comp" src="https://user-images.githubusercontent.com/58890170/113244814-59ca6080-927b-11eb-91ae-5650edf88068.PNG">
-    
-    ![KNN_ROC_SMOTE](https://user-images.githubusercontent.com/58890170/113244847-68187c80-927b-11eb-931b-f12d748bef1c.png)
+              
+   -  
 
