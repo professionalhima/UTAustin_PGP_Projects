@@ -27,3 +27,6 @@
         ![Silhouette Diagram for optimal K](https://github.com/professionalhima/UTAustin_PGP_Projects/blob/main/AllLife%20Credit%20Card%20Customer%20Segmentation/SillhouetteDiagram.PNG)
          - ***[Models comparision](https://github.com/professionalhima/UTAustin_PGP_Projects/blob/main/AllLife%20Credit%20Card%20Customer%20Segmentation/models.PNG)***
         ![Models comparision](https://github.com/professionalhima/UTAustin_PGP_Projects/blob/main/AllLife%20Credit%20Card%20Customer%20Segmentation/models.PNG)
+
+      - **Recommendations to Bank:** 
+      ![Recommendations](https://github.com/professionalhima/UTAustin_PGP_Projects/blob/main/AllLife%20Credit%20Card%20Customer%20Segmentation/recommendations.PNG)
