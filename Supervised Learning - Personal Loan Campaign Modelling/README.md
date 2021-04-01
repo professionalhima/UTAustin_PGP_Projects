@@ -21,6 +21,3 @@
             - Training and making predictions using classification models (LR, KNN, NB)
             - Model evaluation (Confusion Matrix, ROC-AUC, Classification report, Classification Metrics)
             - Class Imbalance Handling (using SMOTE)
-              
-   -  
-
