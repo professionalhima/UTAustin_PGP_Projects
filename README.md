@@ -34,6 +34,30 @@
             - Model evaluation (Confusion Matrix, ROC-AUC, Classification report, Classification Metrics)
             - Class Imbalance Handling (using SMOTE)
 
+**3. Ensemble Techniques - Term Deposit Subscription**
+   - **Goal:** The classification goal is to predict the likelihood of a liability customer buying personal loans.
+      - **Project link:** [Term Deposit Subscription](https://github.com/professionalhima/UTAustin_PGP_Projects/blob/main/Ensemble%20Techniques%20-%20Term%20Deposit%20Subscription%20Prediction/Project3_EnsembleTech_TermDepositSale_HimajaM_Sol.ipynb)
+        * Covers LR, Decision Trees, Bagging, Random Forests, Boosting Algorithms. 
+        * Because of class imbalance, applied SMOTE
+        * Classification report and confusion matrix analysis
+        * Feature Selection / Elemination - Used Recursive Feature Elemination and checked model performances for various models
+          - Best Model is Gradient Boosting with 89% f1, 89% precision and 90% recall
+
+        * ***[Best Model Details](https://github.com/professionalhima/UTAustin_PGP_Projects/blob/main/Ensemble%20Techniques%20-%20Term%20Deposit%20Subscription%20Prediction/Random%20Forest%20Classifier.png)***
+        
+        ![Scores](https://github.com/professionalhima/UTAustin_PGP_Projects/blob/main/Ensemble%20Techniques%20-%20Term%20Deposit%20Subscription%20Prediction/Random%20Forest%20Classifier.png)
+
+        * ***[Models comparision](https://github.com/professionalhima/UTAustin_PGP_Projects/blob/main/Ensemble%20Techniques%20-%20Term%20Deposit%20Subscription%20Prediction/modelcomp.PNG)***
+        ![Models comparision](https://github.com/professionalhima/UTAustin_PGP_Projects/blob/main/Ensemble%20Techniques%20-%20Term%20Deposit%20Subscription%20Prediction/modelcomp.PNG)
+
+        * ***[Models Analysis](https://github.com/professionalhima/UTAustin_PGP_Projects/blob/main/Ensemble%20Techniques%20-%20Term%20Deposit%20Subscription%20Prediction/ma.PNG)***
+        ![ModelsA](https://github.com/professionalhima/UTAustin_PGP_Projects/blob/main/Ensemble%20Techniques%20-%20Term%20Deposit%20Subscription%20Prediction/ma.PNG)
+
+        * ***[Business Insights](https://github.com/professionalhima/UTAustin_PGP_Projects/blob/main/Ensemble%20Techniques%20-%20Term%20Deposit%20Subscription%20Prediction/BI.PNG)*** 
+        ![BI](https://github.com/professionalhima/UTAustin_PGP_Projects/blob/main/Ensemble%20Techniques%20-%20Term%20Deposit%20Subscription%20Prediction/BI.PNG)
+
+        * ***[After RFE -> Best Model](https://github.com/professionalhima/UTAustin_PGP_Projects/blob/main/Ensemble%20Techniques%20-%20Term%20Deposit%20Subscription%20Prediction/rfemodel.PNG)***
+        ![RFE](https://github.com/professionalhima/UTAustin_PGP_Projects/blob/main/Ensemble%20Techniques%20-%20Term%20Deposit%20Subscription%20Prediction/rfemodel.PNG)
 
 **4. Unsupervised Machine Learning - AllLife Credit Card Customer Segmentation**
    - Covers K-means clustering, Hierarchical clustering techniques with different linkages and PCA
@@ -68,7 +92,7 @@
       - **Recommendations to Bank:** 
       ![Recommendations](https://github.com/professionalhima/UTAustin_PGP_Projects/blob/main/AllLife%20Credit%20Card%20Customer%20Segmentation/recommendations.PNG)         
 
-**7. Computer Vision**
+**5. Computer Vision**
    - Covers Introduction to Convolutional Neural Networks, Convolution, Pooling, Padding & its mechanisms, Forward propagation & Backpropagation for CNNs
       - **Project link:** [Plant Seedlings Image Classification using CNNs in Keras](https://github.com/professionalhima/UTAustin_PGP_Projects/blob/main/Plant%20Seedlings%20Image%20Classification%20using%20CNNs%20in%20Keras/Project_7_PlantSeedlingCNN_Himaja_Sol_v1.ipynb)
          - Recognize, identify and classify plant images using CNN and image recognition algorithms. The goal of the projectis to create a classifier capable of determining a plant's species from a photo.
