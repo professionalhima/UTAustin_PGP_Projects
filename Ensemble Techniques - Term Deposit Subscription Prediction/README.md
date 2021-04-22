@@ -1,5 +1,5 @@
 **1. Ensemble Techniques - Term Deposit Subscription**
-   - **Goal:** The classification goal is to predict the likelihood of a liability customer buying personal loans.
+   - **Goal:** build a model that will help the marketingteam identify potential customers who are relatively more likely to subscribe to termdeposits and thus increase their hit ratio
       - **Project link:** [Term Deposit Subscription](https://github.com/professionalhima/UTAustin_PGP_Projects/blob/main/Ensemble%20Techniques%20-%20Term%20Deposit%20Subscription%20Prediction/Project3_EnsembleTech_TermDepositSale_HimajaM_Sol.ipynb)
         * Covers LR, Decision Trees, Bagging, Random Forests, Boosting Algorithms. 
         * Because of class imbalance, applied SMOTE
