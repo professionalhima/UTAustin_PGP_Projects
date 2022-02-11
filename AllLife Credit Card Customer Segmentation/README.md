@@ -1,6 +1,6 @@
 **1. Unsupervised Machine Learning - AllLife Credit Card Customer Segmentation**
    - Covers K-means clustering, Hierarchical clustering techniques with different linkages and PCA
-      - **Project link:** [AllLife Credit Card Customer Segmentation](https://nbviewer.jupyter.org/github/sharmapratik88/AIML-Projects/blob/master/04_Unsupervised%20Learning/04_Unsupervised%20Learning.ipynb)
+      - **Project link:** [AllLife Credit Card Customer Segmentation](https://github.com/professionalhima/UTAustin_PGP_Projects/blob/main/AllLife%20Credit%20Card%20Customer%20Segmentation/Project_5_CC_seg_Unsupervised_HimajaM_Sol.ipynb)
          - **Objective:** To identify different segments in the existing customer based on their spending patterns as well as past interaction with the bank
          - **Key Questions to be answered?**
             - How many different segments of customers are there?
